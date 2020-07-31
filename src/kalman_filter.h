@@ -45,7 +45,12 @@ public:
 	* @param z The measurement at k+1
 	*/
 	void UpdateEKF(const Eigen::VectorXd &z);
-
+	/**
+	* Mesaurement Updates. This function shares the same equations
+	* for kalman filter and kalman filter extended
+	* @param y
+	*/
+	void MesaurementUpdates(const Eigen::VectorXd &y);
 	// state vector
 	Eigen::VectorXd x_;
 
