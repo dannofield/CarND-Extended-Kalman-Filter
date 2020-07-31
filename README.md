@@ -1,6 +1,10 @@
 # CarND-Extended-Kalman-Filter
 [Udacity Project](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project)
+
 [rubic points](https://review.udacity.com/#!/rubrics/748/view)
+
+[Ref](https://medium.com/intro-to-artificial-intelligence/extended-kalman-filter-simplified-udacitys-self-driving-car-nanodegree-46d952fce7a3)
+
 # Extended Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
 
