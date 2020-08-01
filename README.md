@@ -3,7 +3,6 @@
 [//]: # (Image References)
 [image1]: ./images/img11.png "Image 1"
 [image2]: ./images/img2.png "Image 2"
-[Ref](https://medium.com/intro-to-artificial-intelligence/extended-kalman-filter-simplified-udacitys-self-driving-car-nanodegree-46d952fce7a3)
 
 # Extended Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
@@ -139,4 +138,18 @@ and how to install it.
 Regardless of the IDE used, every submitted project must
 still be compilable with cmake and make.
 
+## References
+[Extended Kalman Filter simplified](https://medium.com/intro-to-artificial-intelligence/extended-kalman-filter-simplified-udacitys-self-driving-car-nanodegree-46d952fce7a3)
+https://arxiv.org/pdf/1802.08755.pdf
+https://hal.archives-ouvertes.fr/hal-01241846/document
+http://www.cse.cuhk.edu.hk/~khwong/J2008_IEEE_TIM_Stereo%20Kalman%20.pdf
+http://hss.ulb.uni-bonn.de/2010/2356/2356.pdf
+https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf
+https://arxiv.org/abs/1711.06396
+https://arxiv.org/abs/1711.06396
+http://www.ejaet.com/PDF/2-2/EJAET-2-2-34-39.pdf
+https://pdfs.semanticscholar.org/f5a2/bf3df3126d2923a617b977ec2b4e1c829a08.pdf
+https://arxiv.org/ftp/arxiv/papers/1802/1802.01235.pdf
+https://www.researchgate.net/publication/309503024_Fast_multiple_objects_detection_and_tracking_fusing_color_camera_and_3D_LIDAR_for_intelligent_vehicles
+https://repository.tudelft.nl/islandora/object/uuid%3Af536b829-42ae-41d5-968d-13bbaa4ec736
 
