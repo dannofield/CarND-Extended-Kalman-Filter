@@ -1,14 +1,17 @@
 # CarND-Extended-Kalman-Filter
-[Udacity Project](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project)
 
-[rubic points](https://review.udacity.com/#!/rubrics/748/view)
-
+[//]: # (Image References)
+[image1]: ./images/img11.png "Image 1"
+[image2]: ./images/img2.png "Image 2"
 [Ref](https://medium.com/intro-to-artificial-intelligence/extended-kalman-filter-simplified-udacitys-self-driving-car-nanodegree-46d952fce7a3)
 
 # Extended Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
 
-In this project you will utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower than the tolerance outlined in the project rubric. 
+![alt text][image1]
+![alt text][image2]
+
+In this project you will utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower than the tolerance outlined in the [project rubric](https://review.udacity.com/#!/rubrics/748/view). The original Udacity project can be found on [here](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project)
 
 This project involves the Term 2 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases).
 
@@ -24,7 +27,7 @@ Once the install for uWebSocketIO is complete, the main program can be built and
 
 Tips for setting up your environment can be found in the classroom lesson for this project.
 
-Note that the programs that need to be written to accomplish the project are src/FusionEKF.cpp, src/FusionEKF.h, kalman_filter.cpp, kalman_filter.h, tools.cpp, and tools.h
+Note that the programs that need to be written to accomplish the project are [src/FusionEKF.cpp](./src/kalman_filter.cpp), src/FusionEKF.h, kalman_filter.cpp, kalman_filter.h, tools.cpp, and tools.h
 
 The program main.cpp has already been filled out, but feel free to modify it.
 
@@ -136,6 +139,4 @@ and how to install it.
 Regardless of the IDE used, every submitted project must
 still be compilable with cmake and make.
 
-## How to write a README
-A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
