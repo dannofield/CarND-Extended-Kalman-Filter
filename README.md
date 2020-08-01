@@ -27,7 +27,7 @@ Once the install for uWebSocketIO is complete, the main program can be built and
 
 Tips for setting up your environment can be found in the classroom lesson for this project.
 
-Note that the programs that need to be written to accomplish the project are [src/FusionEKF.cpp](./src/kalman_filter.cpp), src/FusionEKF.h, kalman_filter.cpp, kalman_filter.h, tools.cpp, and tools.h
+Note that the programs that need to be written to accomplish the project are [src/FusionEKF.cpp](./src/FusionEKF.cpp), [src/FusionEKF.h](./src/FusionEKF.h), [kalman_filter.cpp](./src/kalman_filter.cpp), [kalman_filter.h](./src/kalman_filter.h), [tools.cpp](./src/tools.cpp), and [tools.h](./src/tools.h)
 
 The program main.cpp has already been filled out, but feel free to modify it.
 
