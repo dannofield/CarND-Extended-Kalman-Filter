@@ -139,7 +139,6 @@ Regardless of the IDE used, every submitted project must
 still be compilable with cmake and make.
 
 ## References
-[Extended Kalman Filter simplified](https://medium.com/intro-to-artificial-intelligence/extended-kalman-filter-simplified-udacitys-self-driving-car-nanodegree-46d952fce7a3)
 
 https://arxiv.org/pdf/1802.08755.pdf
 
@@ -164,5 +163,7 @@ https://arxiv.org/ftp/arxiv/papers/1802/1802.01235.pdf
 https://www.researchgate.net/publication/309503024_Fast_multiple_objects_detection_and_tracking_fusing_color_camera_and_3D_LIDAR_for_intelligent_vehicles
 
 https://repository.tudelft.nl/islandora/object/uuid%3Af536b829-42ae-41d5-968d-13bbaa4ec736
+
+[Extended Kalman Filter simplified](https://medium.com/intro-to-artificial-intelligence/extended-kalman-filter-simplified-udacitys-self-driving-car-nanodegree-46d952fce7a3)
 
 
